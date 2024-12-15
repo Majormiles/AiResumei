@@ -1,10 +1,10 @@
 <div align="center">
 
 
-  <h2 align="center">ResumeAI</h2>
+  <h2 align="center">CareerCraftAi</h2>
 
   <div align="center">
-     <b>ResumeAI</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
+     <b>CareerCraftAi</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
   </div>
   <br />
 </div>
@@ -49,7 +49,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-cd ResumeAI
+cd CareerCraftAi
 ```
 
 ### Installation

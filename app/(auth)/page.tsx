@@ -130,7 +130,7 @@ const Page = () => {
           <span className="text-sm text-gray-500 sm:text-center">
             © 2024{" "}
             <span className="hover:text-primary-500 hover:cursor-pointer">
-              ResumeAI™
+              CareerCraftAi™
             </span>
             . All Rights Reserved.
           </span>
